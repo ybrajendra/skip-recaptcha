@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 namespace CloudCommerce\SkipRecaptcha\Plugin;
 
 use CloudCommerce\SkipRecaptcha\Helper\Data;

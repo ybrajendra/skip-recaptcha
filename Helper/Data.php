@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 namespace CloudCommerce\SkipRecaptcha\Helper;
 
 use Magento\Framework\App\Helper\AbstractHelper;
